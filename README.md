@@ -4,4 +4,4 @@
 
 **Lithuania**
 
-![MehPS github stats](https://github-readme-stats.vercel.app/api?username=PijusSerapinasMipsas&show_icons=true&theme=radical)
+![NoCluePS github stats](https://github-readme-stats.vercel.app/api?username=NoCluePS&show_icons=true&theme=radical)
