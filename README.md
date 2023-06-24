@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**I'm Pijus, a 15 year old dev**
+**I'm Pijus, a 17 year old dev**
 
 **Lithuania, Vilnius**
 
